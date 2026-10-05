@@ -30,3 +30,4 @@ Apps in development mode only work for accounts added under User Management.
 
 - `index.html` — the whole app
 - `assets/buddy/` — character animations (idle, walk, dance, jump, sit, hang)
+ 
